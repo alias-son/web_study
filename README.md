@@ -1,2 +1,4 @@
 # web_study
- fastapi+svelt
+ fastapi+svelt  
+
+ > https://wikidocs.net/book/8531
